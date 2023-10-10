@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**F-star/F-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是前端西瓜哥，Web 前端开发，图形编辑器方向。
 
-Here are some ideas to get you started:
+我的公众号：**前端西瓜哥**。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+  width="550px"
+  src="https://user-images.githubusercontent.com/18698939/219853531-e39e1537-99e6-40bf-a56f-81330fca3180.png" 
+/>
+
+建了个图形编辑器交流的 **微信群**，群里大多是业内人士。
+
+如果你是做图形编辑器开发或是感兴趣的，可以加我微信 frstars，备注 “图形编辑器群”，我拉你进群。
