@@ -1,5 +1,5 @@
 
-我是前端西瓜哥，一名 Web 前端开发，图形编辑器方向。
+我是前端西瓜哥，一名 Web 前端开发，图形编辑器方向。现居深圳。
 
 I am a Web Frontend Developer focusing on graphic editors.
 
